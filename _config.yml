@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  drubioa
 
 # Build settings
-remote_theme: piharpi/jekyll-klise
+remote_theme: mmistakes/jekyll-theme-basically-basic
 show_downloads: false
 
 plugins:
